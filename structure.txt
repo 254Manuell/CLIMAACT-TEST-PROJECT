@@ -1,0 +1,12 @@
+air-quality-app
+│
+├── backend/
+│   ├── app.py        # Python Flask server
+│   ├── requirements.txt
+│
+├── frontend/
+│   ├── index.html    # Main HTML file
+│   ├── style.css     # Optional styling
+│   ├── app.js        # JavaScript logic
+│
+├── vercel.json       # Configuration for Vercel
